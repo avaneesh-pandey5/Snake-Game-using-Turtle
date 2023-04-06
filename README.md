@@ -5,4 +5,4 @@ The game features a snake that grows in length as it eats food while avoiding co
 
 This project is a great way to practice Python programming and learn about game development with the Turtle module. It's also a fun and addictive game that you can play and share with others.
 
-Instructions: To play the game, simply run the 'snake_game.py' file. Use the arrow keys to move the snake around the game board and try to eat as much food as possible without colliding with walls or the snake's own tail. Enjoy!
+Instructions: To play the game, simply run the 'main.py' file. Use the arrow keys to move the snake around the game board and try to eat as much food as possible without colliding with walls or the snake's own tail. Enjoy!
